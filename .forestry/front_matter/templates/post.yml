@@ -1,0 +1,38 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+  default: Wildan Fauzy
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- type: text
+  name: image
+  label: image
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+pages:
+- _posts/2020-11-19-menjelang.md
+- _posts/2020-11-23-mohon-maaf-jetpack.md
+- _posts/2020-11-23-ngopi-brek.md
+- _posts/2020-12-23-kembali-ke-rumah.md
+- _posts/celengan-babi-sebuah-permulaan.md
