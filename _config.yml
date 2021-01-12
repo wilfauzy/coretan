@@ -5,10 +5,10 @@ description: "aidan blog is personal website of wildan fauzy (@wilfauzy)
   tulisan coretan."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://aidanblog.com/
+baseurl: '/'
 url: https://aidanblog.com
 google_analytics: ''
-disqus: 'demowebsite'
+disqus: ''
 mailchimp-list: 'https://wildanfauzy.us10.list-manage.com/subscribe/post?u=72d29580a7ee388212e8622a5&id=f06aca7400'
 include: ["_pages"]
 permalink: /:title/
