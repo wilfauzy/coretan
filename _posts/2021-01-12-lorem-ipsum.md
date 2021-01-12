@@ -2,7 +2,7 @@
 layout: post
 author: Wildan Fauzy
 categories:
-- test
+- blog
 title: Lorem Ipsum
 image: assets/images/pexels-sebastian-k-701455_jmfvds.jpg
 date: 2021-01-12 19:50:00 +0000
