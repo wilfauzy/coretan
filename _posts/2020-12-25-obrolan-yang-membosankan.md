@@ -5,7 +5,7 @@ author: Wildan Fauzy
 categories:
   - Coretan
   - blog
-image: /assets/images/pexels-amine-m_siouri-4646677_yaqohy.jpg
+image: https://aidanblog.com/assets/images/pexels-amine-m_siouri-4646677_yaqohy.jpg
 tags:
   - 'desember '
   - menulis
