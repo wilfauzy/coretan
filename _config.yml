@@ -5,7 +5,6 @@ description: "aidan blog is personal website of wildan fauzy (@wilfauzy)
   tulisan coretan."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/'
 url: https://aidanblog.com
 google_analytics: ''
 disqus: ''
