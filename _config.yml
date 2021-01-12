@@ -5,6 +5,7 @@ description: "aidan blog is personal website of wildan fauzy (@wilfauzy)
   tulisan coretan."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+baseurl: https://aidanblog.com/
 url: https://aidanblog.com
 google_analytics: ''
 disqus: 'demowebsite'
@@ -18,8 +19,8 @@ authors:
   Wildan Fauzy:
     name: Wildan Fauzy
     display_name: Wildan Fauzy
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wilfauzy@yandex.com
+    gravatar: 0d6d05efa3831164ebb9a3995e82e9ad
+    email: me@wildanfauzy.com
     web: https://a.idan.my.id
     twitter: https://twitter.com/wilfauzy
     description: "Hi, Saya Wildan Fauzy, panggil saja idan atau aidan"
